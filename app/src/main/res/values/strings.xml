@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BS Android Test</string>
+
+    <!-- api auth key -->
+    <string name="auth_key">tmt-9NRd7GR11I41Y20P0jKN146SYnzX5uMH</string>
+    <string name="imageTtitle">this is title of image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
